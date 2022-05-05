@@ -1,0 +1,16 @@
+{
+    "cursos": [
+        {
+            "codigo": "T023316",
+            "nombre": "Matemática"
+        },
+        {
+            "codigo": "T023556",
+            "nombre": "Sociológia"
+        },
+        {
+            "codigo": "T028832",
+            "nombre": "Programación"
+        }
+    ]
+}
