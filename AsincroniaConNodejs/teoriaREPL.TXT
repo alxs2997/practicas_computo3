@@ -1,0 +1,6 @@
+REPL: Read - Eval - Print - Loop
+
+Read: Lee una estructura de datos de js.
+Eval: Toma una estructura de datos y la evalua.
+Print: Imprime los resultados.
+Loop: Repite los procesos anteriores hacta que el usuario lo decida.
